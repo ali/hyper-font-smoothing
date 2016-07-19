@@ -7,5 +7,13 @@
   "license": "MIT",
   "keywords": [
     "hyperterm"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ali/hyperterm-subpixel-antialiased.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ali/hyperterm-subpixel-antialiased/issues"
+  },
+  "homepage": "https://github.com/ali/hyperterm-subpixel-antialiased#readme"
 }
