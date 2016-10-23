@@ -1,24 +1,25 @@
 {
-  "name": "hyperterm-subpixel-antialiased",
-  "version": "0.1.0",
+  "name": "hyper-font-smoothing",
   "main": "index.js",
-  "description": "Subpixel-antialiased font smoothing for hyperterm",
+  "description": "Extension for subpixel-antialiased font smoothing in Hyper",
   "author": "Ali Ukani <ali.ukani@gmail.com>",
   "license": "MIT",
   "files": [
     "index.js"
   ],
   "keywords": [
-    "hyperterm"
+    "hyperterm",
+    "hyper",
+    "hyper.app"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ali/hyperterm-subpixel-antialiased.git"
+    "url": "https://github.com/ali/hyper-font-smoothing.git"
   },
   "bugs": {
-    "url": "https://github.com/ali/hyperterm-subpixel-antialiased/issues"
+    "url": "https://github.com/ali/hyper-font-smoothing/issues"
   },
-  "homepage": "https://github.com/ali/hyperterm-subpixel-antialiased#readme"
+  "homepage": "https://github.com/ali/hyper-font-smoothing#readme",
   "scripts": {
     "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },

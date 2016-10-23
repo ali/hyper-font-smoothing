@@ -1,29 +1,29 @@
-# hyperterm-subpixel-antialiased
+# hyper-font-smoothing
 
-Subpixel-antialiased font smoothing for [hyperterm][].
+Extension for subpixel-antialiased font smoothing in [Hyper][].
 
 [hyperterm]: https://github.com/zeit/hyperterm
 
 ## How to use
 
-Add `hyperterm-subpixel-antialiased` to `plugins` in `~/.hyperterm.js`:
+Add `hyper-font-smoothing` to `plugins` in `~/.hyper.js`:
 
 ```js
 // Example ~/.hyperterm.js
 module.exports = {
   plugins: [
-    "hyperterm-subpixel-antialiased",
+    "hyper-font-smoothing",
   ],
 }
 ```
 
 ## Screenshots
 
-With `hyperterm-subpixel-antialiased`:
+With `hyper-font-smoothing`:
 
 ![hyperterm with subpixel-antialiased font-smoothing](.github/subpixel-antialiased.png?raw=true)
 
-Without `hyperterm-subpixel-antialiased` (default):
+Without `hyper-font-smoothing` (default):
 
 ![hyperterm with default antialiased font-smoothing](.github/antialiased.png?raw=true)
 
