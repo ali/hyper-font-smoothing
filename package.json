@@ -16,4 +16,16 @@
     "url": "https://github.com/ali/hyperterm-subpixel-antialiased/issues"
   },
   "homepage": "https://github.com/ali/hyperterm-subpixel-antialiased#readme"
+  "scripts": {
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+  },
+  "devDependencies": {
+    "cz-conventional-changelog": "^1.2.0",
+    "semantic-release": "^4.3.5"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
 }
