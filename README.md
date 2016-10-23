@@ -9,7 +9,7 @@ Extension for subpixel-antialiased font smoothing in [Hyper][].
 Add `hyper-font-smoothing` to `plugins` in `~/.hyper.js`:
 
 ```js
-// Example ~/.hyperterm.js
+// Example ~/.hyper.js
 module.exports = {
   plugins: [
     "hyper-font-smoothing",
