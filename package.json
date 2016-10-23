@@ -5,6 +5,9 @@
   "description": "Subpixel-antialiased font smoothing for hyperterm",
   "author": "Ali Ukani <ali.ukani@gmail.com>",
   "license": "MIT",
+  "files": [
+    "index.js"
+  ],
   "keywords": [
     "hyperterm"
   ],
