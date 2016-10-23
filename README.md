@@ -2,7 +2,7 @@
 
 Extension for subpixel-antialiased font smoothing in [Hyper][].
 
-[hyperterm]: https://github.com/zeit/hyperterm
+[Hyper]: https://github.com/zeit/hyper
 
 ## How to use
 
