@@ -1,3 +1,7 @@
+# WARNING: This module has been renamed to hyper-font-smoothing. Please install it instead. See https://github.com/ali/hyper-font-smoothing for more information.
+
+---
+
 # hyperterm-subpixel-antialiased
 
 Subpixel-antialiased font smoothing for [hyperterm][].

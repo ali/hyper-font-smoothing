@@ -1,3 +1,5 @@
+console && console.warn && console.warn('WARNING: Hyperterm plugin `hyperpixel-subpixel-antialiased` has been renamed to `hyper-font-smoothing`. Please install it instead. See https://github.com/ali/hyper-font-smoothing for more information.');
+
 exports.decorateConfig = (config) => {
   return Object.assign({}, config, {
     termCSS: `
